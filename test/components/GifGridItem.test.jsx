@@ -1,5 +1,5 @@
-import { render } from "@testing-library/react"
-import { GifGridItem } from "../../src/components/GifGridItem"
+import { render } from '@testing-library/react'
+import { GifGridItem } from '../../src/components/GifGridItem'
 
 describe('Pruebas en <GifGridItem />', () => { 
     const title = 'Saitama';
